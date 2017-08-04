@@ -696,4 +696,17 @@ CONTACTS
     opacity: 0.5;
 }
 
+.status--0 { color: #999999; } // unassigned
+.status--1 { color: #4CAF50; } // accepted
+.status--2 { color: #FF9800; } // paused
+.status--3 { color: #333333; } // closed
+.status--4 { color: #FF9800; } // unassignable
 
+.milestone--belief    { color: #4CAF50; }
+.milestone--baptized  { color: #2196F3; }
+.milestone--baptizing { color: #2196F3; }
+
+.milestone--can_share { color: #4CAF50; }
+.milestone--sharing   { color: #4CAF50; }
+.milestone--in_group  { color: #4CAF50; }
+.milestone--planting  { color: #9C27B0; }
